@@ -1,7 +1,3 @@
-Here's a draft for your README file:
-
----
-
 # Petrol and Diesel Price Prediction
 
 This repository contains a project to predict the retail selling price of petrol and diesel in metro cities using machine learning models. The project includes data processing, model training, and a web application for user interaction.
